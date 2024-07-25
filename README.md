@@ -1,2 +1,3 @@
 # Pre-Date-Methods
 A library about how to process all kinds data, including image or text word...
+对于图像数据的处理和对文本数据的处理。
